@@ -18,7 +18,7 @@ const App = () => {
         ?
         <h2>Hello welcome {user} you have logged in</h2>
         :
-        <h2>Log in here</h2>
+        <h2>Welcome</h2>
       }
     </div>
   );
